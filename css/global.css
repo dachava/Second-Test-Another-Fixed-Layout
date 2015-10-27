@@ -1,0 +1,358 @@
+body{
+	background: white;
+}
+
+.wrapper{
+	background: white;
+	width: 1047px;
+	height: auto;
+	margin: 0 auto;
+}
+
+
+
+
+
+header{
+	background: white;
+	height: 164px;
+	width: auto;
+
+}
+
+header span{
+	color: #0099ff;
+	font: 66px "Times New Roman";
+
+}
+header h1{
+	color: black;
+	font: 66px "Serif";
+	margin: 1px 0 0 36px;
+
+}
+header p{
+	color: grey;
+	font: bold 14px "Serif";
+	margin: 0 0 1px 39px;
+}
+
+
+
+
+
+
+nav{
+	background: white;
+	height: 56px;
+	width: auto;
+}
+
+nav ul{
+	
+}
+
+
+
+nav li{
+	display: inline;
+	float: left;
+}
+
+nav a{
+	display: block;
+	width: 59px;
+	background: white;
+	margin: 9px 49px 0 32px;
+	font: bold 19px "Times New Roman";
+	color: black;
+	text-align: center;
+	text-decoration: none;
+	
+}
+
+.banner{
+	background: green;
+	height: 319px;
+	width: auto;
+	margin: 0 35px 0;
+}
+
+.round-button {
+    display:block;
+    width:26px;
+    height:26px;
+
+    border-radius: 100px;
+    background: #0b9cf7;
+    box-shadow: 0 0 3px gray;
+    font-size:20px;
+    font-weight:bold;
+    float: right;
+    margin: 10px 28px 0 4px;
+}
+.round-button:hover {
+    background: #262626;
+}
+
+.round-button2 {
+    display:block;
+    width:26px;
+    height:26px;
+
+    border-radius: 100px;
+    background: #0b9cf7;
+    box-shadow: 0 0 3px gray;
+    font-size:20px;
+    font-weight:bold;
+    float: right;
+    margin: 10px 0 0 4px;
+}
+.round-button2:hover {
+    background: #262626;
+}
+
+.container{
+	background: white;
+	height: 655px;
+	width: auto;
+	margin: 41px auto;
+}
+
+
+
+
+
+.welcome{
+	background: white;
+	width: 315px;
+	height: 400px;
+	margin: 0 0 0 30px;
+	float: left;
+	
+
+}
+
+.welcome h2{
+
+font: 35px "Times New Roman";
+color: #169fe7;
+margin: 19px 1px 0 0;
+padding: 1px 1px 14px 0;
+border-bottom: 1px dashed grey;
+}
+
+.welcome img{
+	
+	margin: 26px 0 0 2px;
+}
+
+.welcome span{
+	font: bold 12px "Arial";
+}
+
+.welcome p{
+
+	font: 12px "Arial";
+	line-height: 1.6;
+	margin: 14px 0 4px 0;
+}
+
+.welcome a{
+	font: 9pt "Arial";
+	text-decoration: underline;
+	color: #0b9cf7;
+	margin: 2px 0 0 0;
+}
+
+
+
+.solutions h2{
+
+font: 32px "Times New Roman";
+color: black;
+margin: 22px 1px 0 0;
+padding: 1px 1px 14px 0;
+border-bottom: 1px dashed grey;
+}
+
+.solutions img{
+	
+	margin: 26px 0 0 2px;
+}
+
+.solutions span{
+	font: bold 12px "Arial";
+}
+
+.solutions p{
+
+	font: 12px "Arial";
+	line-height: 1.6;
+	margin: 14px 0 4px 0;
+}
+
+.solutions a{
+	font: 9pt "Arial";
+	text-decoration: underline;
+	color: #0b9cf7;
+	margin: 2px 0 0 0;
+}
+
+
+
+.solutions{
+	background: white;
+	width: 315px;
+	height: 400px;
+	margin: 0 0 0 19px;
+	float: left;
+	
+}
+
+
+
+.projects h2{
+
+font: 32px "Times New Roman";
+color: black;
+margin: 22px 0 25px ;
+padding: 1px 1px 14px 0;
+border-bottom: 1px dashed grey;
+}
+
+
+
+
+
+.projects{
+	background: white;
+	width: 315px;
+	height: 400px;
+	margin: 0 0 0 35px;
+	float: left;
+}
+
+.overview{
+	background: white;
+	width: 649px;
+	height: 255px;
+	margin: 0 0 0 30px;
+	float: left;
+	
+}
+
+
+
+.overview h2{
+
+font: 32px "Times New Roman";
+color: black;
+margin: 8px 0 0 0;
+padding: 1px 1px 14px 0;
+
+}
+
+
+.overview p{
+
+	font: 12px "Arial";
+	line-height: 1.6;
+	margin: 4px 0 0 0;
+}
+
+
+
+ .overview ul{
+	float: left;
+	list-style-image: url('../images/arrow.jpg');
+
+	
+}
+
+.overview li{
+	display: block;
+	line-height: 20px;
+	text-decoration: underline;
+	margin: 4px 0 0 0;
+	list-style-image: url('../images/arrow.jpg');
+
+}
+
+
+.overviewp{
+	font: 12px "Arial";
+	color: #0b9cf7;
+	
+	margin: 0 0 0 18px;
+}
+
+.testimonials{
+	background: white;
+	width: 315px;
+	height: 255px;
+	margin: 0 0 0 18px;
+	float: left;
+
+}
+
+
+
+.testimonials h2{
+
+font: 32px "Times New Roman";
+color: black;
+margin: 8px 1px 0 -3px;
+padding: 1px 1px 14px 0;
+
+}
+
+.testimonials img{
+	
+	margin: 26px 0 0 2px;
+}
+
+.testimonials span{
+	font: bold 12px "Arial";
+}
+
+.testimonials p{
+
+	font: 12px "Arial";
+	line-height: 1.6;
+	margin: 2px 0 4px 0;
+}
+
+.testimonials a{
+	font: 9pt "Arial";
+	text-decoration: underline;
+	color: #0b9cf7;
+	margin: 2px 0 0 0;
+}
+.date{
+	font: 9pt "Arial";
+	color: #0b9cf7;
+	margin: 2px 0 0 0;
+	
+}
+
+
+
+footer{
+	height: 287px;
+	width: 990px;
+	margin: 0 30px 0 26px;
+	background: black;
+}
+
+.column{
+
+    margin: 0 0 0 0;
+    text-align: justify;
+    float: left;
+    width: 250px;
+    padding: 0 24px;
+}
+h3{
+	font: bold 11pt "Arial";
+}
